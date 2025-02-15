@@ -2,7 +2,7 @@
 // @name         Force default font
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Force "Be Vietnam Pro" as the default font on all websites
+// @description  Force "Be Vietnam Pro" as the default font on all websites, excluding icons and buttons
 // @author       Your Name
 // @match        *://*/*
 // @run-at       document-start
@@ -17,10 +17,9 @@
     link.rel = "stylesheet";
     document.head.appendChild(link);
 
-    // Define the CSS to apply the font
+    // Define the CSS to apply the font, excluding icons and buttons
     const css = `
-        *:not([class*="ico"], [class*="fa"], [class*="control"] *, [class*="button"], [role*="button"], [type*=button], button, [id*="button"], [class*="btn"], [class*="mjx"], [class*="vjs"],
-        [class*="bb"], [class="ll"], i, [class="i"], [class*="symbol"],  img, svg) {
+        *:not([class*="ico"]):not([class*="icon"]):not([class*="icons"]):not([class*="fa"]):not([class*="control"]):not([class*="button"]):not([role*="button"]):not([id*="button"]):not([class*="btn"]):not(button):not(i):not(a):not(span) {
             font-family: 'Be Vietnam Pro', sans-serif !important;
         }
     `;
