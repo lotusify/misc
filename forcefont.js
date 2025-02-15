@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Force default font
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Force "Be Vietnam Pro" as the default font on all websites, excluding icons and buttons
 // @author       Your Name
 // @match        *://*/*
