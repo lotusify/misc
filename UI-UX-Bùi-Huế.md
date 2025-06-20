@@ -1,5 +1,4 @@
-Bài 1
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 1: Nhập môn thiết kế UX/UI </h1>
 
 Video bắt đầu bằng việc giới thiệu về lĩnh vực thiết kế UX/UI, một ngành nghề đang có nhu cầu nhân lực cao tại Việt Nam \[[00:15](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=15)\]. Người thuyết trình, chị Huế, chia sẻ mình từng là giảng viên tại khoa Đa phương tiện của Học viện Bưu chính Viễn thông, một trong những nơi đầu tiên tại Việt Nam đào tạo chính quy về ngành này \[[00:59](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=59)\].
 
@@ -26,8 +25,7 @@ Video cũng chỉ ra sự khác biệt giữa yêu cầu của khách hàng (ng�
 
 Cuối cùng, video khẳng định rằng nội dung sẽ tập trung chủ yếu vào việc thiết kế UX/UI cho các sản phẩm có tính tương tác cao, đặc biệt là các sản phẩm phần mềm \[[33:10](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=1990)\], và phân tích sâu hơn về nguồn gốc của thiết kế tương tác từ lĩnh vực tương tác người-máy (HCI) \[[35:05](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=2105)\].
 
-Đây là nội dung chi tiết Bài 2:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 2: Yếu tố con người trong thiết kế tương tác </h1>
 
 **Giới thiệu về Thiết kế Tương tác và mô hình PICT \[[00:00](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=0)\]**
 
@@ -83,8 +81,7 @@ Dưới đây là nội dung chi tiết được trích xuất từ video:
 * Video tiếp theo sẽ đi sâu vào các yếu tố còn lại của mô hình PICT: Tương tác (Interactions), Bối cảnh (Context), và Công nghệ (Technology) \[[58:57](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3537)\].
 
 
-Đây là nội dung chi tiết video thứ 3:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 3: Yếu tố Hoạt động, Ngữ cảnh, Công Nghệ trong mô hình PACT </h1>
 
 Video này là phần tiếp theo của chủ đề thiết kế tương tác (interaction design), tập trung vào việc phân tích sâu hơn mô hình PACT với ba yếu tố còn lại: Hoạt động (Activity), Ngữ cảnh (Context), và Công nghệ (Technology) \[[00:09](http://www.youtube.com/watch?v=fLyZtRuepQo&t=9)\].
 
@@ -136,8 +133,7 @@ Video này là phần tiếp theo của chủ đề thiết kế tương tác (i
 
 Cuối cùng, video nhấn mạnh rằng người làm thiết kế cần luôn tư duy về cả 4 yếu tố của mô hình PACT để tạo ra một sản phẩm có tương tác tốt nhất cho người dùng \[[48:43](http://www.youtube.com/watch?v=fLyZtRuepQo&t=2923)\].
 
-Bài 4
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 4: hiết kế đảm bảo khả năng sử dụng Usability </h1>
 
 **Giới thiệu về Usability (Khả năng sử dụng) \[[00:01](http://www.youtube.com/watch?v=tBU4JwRT8zs&t=1)\]**
 Buổi học thứ tư này tập trung vào chủ đề "Usability" hay còn gọi là khả năng sử dụng. Video sẽ giải thích vai trò của Usability trong quá trình thiết kế tương tác và tiếp cận người dùng \[[00:07](http://www.youtube.com/watch?v=tBU4JwRT8zs&t=7)\].
@@ -208,10 +204,7 @@ Usability của một hệ thống tương tác là mức độ mà sản phẩm
         * **Sự thân thiện:** Tương tác mượt mà, tránh các gián đoạn không cần thiết \[[54:03](http://www.youtube.com/watch?v=tBU4JwRT8zs&t=3243)\].
     * Sự hài lòng thường được đo lường bằng các bảng câu hỏi khảo sát sau khi người dùng hoàn thành một nhiệm vụ \[[55:03](http://www.youtube.com/watch?v=tBU4JwRT8zs&t=3303)\].
 
-http://googleusercontent.com/youtube_content/3
-
-Bài 5
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 5: Đánh giá khả năng sử dụng của sản phẩm </h1>
 
 **Giới thiệu và Mục tiêu của buổi học \[[00:03](http://www.youtube.com/watch?v=j_kosIxKcsY&t=3)\]**
 Video này hướng dẫn cách đánh giá khả năng sử dụng (usability) của một sản phẩm. Mục tiêu là để người xem có thể áp dụng kiến thức vào việc đánh giá một sản phẩm cụ thể, một nhiệm vụ thường gặp khi mới đi làm \[[00:36](http://www.youtube.com/watch?v=j_kosIxKcsY&t=36)\] hoặc khi cần nâng cấp sản phẩm hiện có \[[01:20](http://www.youtube.com/watch?v=j_kosIxKcsY&t=80)\]. Buổi học sẽ tập trung vào cách nhận định một sản phẩm đã đảm bảo khả năng sử dụng hay chưa, thay vì đi sâu vào các loại hình đánh giá.
@@ -269,10 +262,8 @@ Buổi học này sẽ tập trung vào **phương pháp chuyên gia** \[[06:09]
 
 **Kết luận và Lời khuyên \[[46:11](http://www.youtube.com/watch?v=j_kosIxKcsY&t=2771)\]**
 Khi đánh giá, cần đi theo 5 tiêu chí, phân tích rõ ràng "tại sao sai", "tại sao cần sửa" để thuyết phục đội ngũ thiết kế. Tránh các nhận xét chung chung, chủ quan về mặt thẩm mỹ (UI) mà hãy tập trung vào khả năng sử dụng (usability). Các nhận xét phải có tính thuyết phục cao để tránh bị phản biện và đảm bảo vấn đề được khắc phục \[[47:25](http://www.youtube.com/watch?v=j_kosIxKcsY&t=2845)\]. Nhìn chung, ứng dụng MyTV còn nhiều vấn đề cần được xem xét và cải thiện \[[49:03](http://www.youtube.com/watch?v=j_kosIxKcsY&t=2943)\].
-http://googleusercontent.com/youtube_content/4
 
-Bài 6:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 6: Ngôn ngữ tương tác với sản phẩm </h1>
 
 Video này phân tích về các dạng tương tác và ngôn ngữ giao tiếp giữa người dùng và máy móc trong lĩnh vực thiết kế UX-UI \[[00:00](http://www.youtube.com/watch?v=vvEOEM7dPK0&t=0)\].
 
@@ -337,10 +328,8 @@ Video này phân tích về các dạng tương tác và ngôn ngữ giao tiếp
 * Nhà thiết kế cần suy nghĩ sáng tạo về các hình thức tương tác, tận dụng các hành động và cử chỉ tự nhiên của con người để điều khiển đối tượng \[[35:43](http://www.youtube.com/watch?v=vvEOEM7dPK0&t=2143)\].
 * Luôn cần suy nghĩ về mô hình thần kinh trong não bộ con người để xây dựng được mô hình khái niệm phù hợp nhất cho sản phẩm \[[36:05](http://www.youtube.com/watch?v=vvEOEM7dPK0&t=2165)\].
 
-http://googleusercontent.com/youtube_content/5
 
-Bài 7:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 7: Hiểu cảm xúc của người dùng và kích hoạt hành động của họ </h1>
 
 **Chủ đề: Mục tiêu trải nghiệm người dùng yêu thích \[[00:00](http://www.youtube.com/watch?v=c5Nw9Gg5dEA&t=0)\]**
 Sau khi đạt được mục tiêu cơ bản là khả năng sử dụng (sản phẩm có thể dùng được), bài học này hướng đến một mục tiêu cao cấp hơn: mang lại những trải nghiệm tốt nhất, khiến người dùng yêu thích sản phẩm \[[00:14](http://www.youtube.com/watch?v=c5Nw9Gg5dEA&t=14)\].
@@ -404,10 +393,8 @@ Quy trình thiết kế trải nghiệm người dùng thành công gồm 3 bư�
 3.  **Nâng cao chất lượng:** Sau khi người dùng đã vào "lưới", cần liên tục nâng cao chất lượng, tạo ra giá trị cốt lõi và xây dựng cảm xúc ý thức để họ yêu thích, gắn bó lâu dài và trở thành người quảng bá cho sản phẩm \[[01:06:51](http://www.youtube.com/watch?v=c5Nw9Gg5dEA&t=4011)\].
 
 Buổi học kết thúc, hẹn gặp lại ở các buổi sau \[[01:08:05](http://www.youtube.com/watch?v=c5Nw9Gg5dEA&t=4085)\].
-http://googleusercontent.com/youtube_content/6
 
-Bài 8:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 8: Xác định yêu cầu từ người dùng </h1>
 
 Video này tập trung vào chủ đề "Xác định yêu cầu trong thiết kế UX/UI", một bước quan trọng trước khi bắt đầu bất kỳ dự án nào.
 
@@ -490,10 +477,7 @@ Các loại yêu cầu cần làm rõ:
 * Xác định rõ đối tượng người dùng mục tiêu \[[33:02](http://www.youtube.com/watch?v=HSYxAUozGGo&t=1982)\].
 * Linh hoạt kết hợp các phương pháp thu thập dữ liệu tùy thuộc vào mục tiêu và hoàn cảnh của dự án \[[33:08](http://www.youtube.com/watch?v=HSYxAUozGGo&t=1988)\].
 
-http://googleusercontent.com/youtube_content/7
-
-Bài 9:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 9: Thiết kế kiến trúc thông tin </h1>
 
 Video này trình bày về chủ đề **Thiết kế Kiến trúc Thông tin (Information Architecture - IA)**, một phần quan trọng trong lĩnh vực thiết kế UX/UI.
 
@@ -565,10 +549,8 @@ Site map là sơ đồ trực quan hóa cấu trúc thông tin của một trang
 ### Kết luận
 
 Kiến trúc thông tin là một công việc nền tảng và cực kỳ quan trọng \[[32:48](http://www.youtube.com/watch?v=w4mWCsfykls&t=1968)\]. Nó giống như việc vẽ một tấm bản đồ chi tiết cho không gian số, giúp người dùng không bị lạc lối, dễ dàng tìm thấy điểm đến (thông tin) mà họ mong muốn, từ đó tiết kiệm thời gian và mang lại trải nghiệm tích cực \[[33:06](http://www.youtube.com/watch?v=w4mWCsfykls&t=1986)\], \[[33:40](http://www.youtube.com/watch?v=w4mWCsfykls&t=2020)\].
-http://googleusercontent.com/youtube_content/8
 
-Bài 10:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 10: Phân tích nhiệm vụ </h1>
 
 **Chủ đề: Phân tích nhiệm vụ (Task Analysis)**
 
@@ -643,8 +625,7 @@ Dưới đây là nội dung chi tiết được trích xuất từ video:
 
 http://googleusercontent.com/youtube_content/9
 
-Bài 11:
-Dưới đây là nội dung chi tiết được trích xuất từ video:
+<h1> Bài 11: Thiết kế giao diện người dùng UI </h1>
 
 Video này là một buổi học về thiết kế giao diện người dùng (UI), tiếp nối các chủ đề về thiết kế trải nghiệm người dùng (UX) đã được chia sẻ trước đó \[[00:00](http://www.youtube.com/watch?v=ii6shWDghSk&t=0)\].
 
@@ -724,4 +705,3 @@ Video này là một buổi học về thiết kế giao diện người dùng (
 3.  **Hoàn thiện thiết kế trên máy \[[50:07](http://www.youtube.com/watch?v=ii6shWDghSk&t=3007)\]:** Dựa trên bản phác thảo và style guide để tạo ra một sản phẩm UI hoàn chỉnh, chất lượng cao.
 
 Video kết thúc với hy vọng sẽ có thêm các video bổ trợ khác về chủ đề thiết kế UI trong tương lai \[[50:34](http://www.youtube.com/watch?v=ii6shWDghSk&t=3034)\].
-http://googleusercontent.com/youtube_content/10
