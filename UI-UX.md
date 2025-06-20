@@ -27,58 +27,55 @@ Cuối cùng, video khẳng định rằng nội dung sẽ tập trung chủ y�
 
 <h1> Bài 2: Yếu tố con người trong thiết kế tương tác </h1>
 
-**Giới thiệu về Thiết kế Tương tác và mô hình PICT \[[00:00](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=0)\]**
+**Giới thiệu về Thiết kế Tương tác và mô hình PACT**
 
-* Video bắt đầu bằng việc ôn lại nội dung buổi học trước về nhập môn thiết kế UX/UI và mô hình thể hiện mối liên kết giữa các lĩnh vực trong thiết kế, đặc biệt là thiết kế tương tác (Interaction Design).
-* Bài học này tập trung vào việc thiết kế các sản phẩm có tính tương tác với con người, chủ yếu là các sản phẩm phần mềm như game, ứng dụng thực tế ảo, ứng dụng di động (Facebook, Shopee), và cả các thiết bị vật lý như máy bán hàng tự động.
-* Giới thiệu mô hình PICT, một khuôn khổ bao gồm 4 yếu tố quan trọng cần xem xét khi thiết kế sản phẩm tương tác \[[03:10](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=190)\]:
-    * **P**eople (Con người): Luôn là yếu tố trung tâm của mọi thiết kế \[[03:52](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=232)\].
-    * **I**nteractions (Tương tác): Các hành động mà con người thực hiện trên sản phẩm \[[04:37](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=277)\].
-    * **C**ontext (Bối cảnh): Môi trường và hoàn cảnh mà sản phẩm được sử dụng \[[05:03](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=303)\].
-    * **T**echnology (Công nghệ): Nền tảng công nghệ và thiết bị mà sản phẩm hoạt động trên đó \[[05:27](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=327)\].
+* Video bắt đầu bằng việc nhắc lại nội dung buổi học đầu tiên về nhập môn thiết kế UX/UI và mô hình thể hiện mối tương quan giữa các lĩnh vực trong thiết kế giao diện người dùng, đặc biệt là thiết kế tương tác (Interaction Design).
+* Bài học hôm nay tập trung vào việc thiết kế các sản phẩm có tính tương tác với con người, chủ yếu là các sản phẩm phần mềm như game, ứng dụng thực tế ảo, ứng dụng di động (Facebook, Shopee, Amazon), và cả các thiết bị như máy bán hàng tự động.
+* Giới thiệu **mô hình PACT**, bao gồm 4 yếu tố cần quan tâm khi thiết kế một sản phẩm tương tác:
+    * **P**eople (Con người): Luôn là yếu tố trung tâm của mọi thiết kế.
+    * **A**ctivities (Hoạt động): Các hoạt động mà người dùng thực hiện trên sản phẩm.
+    * **C**ontext (Bối cảnh): Hoàn cảnh và môi trường sử dụng sản phẩm.
+    * **T**echnology (Công nghệ): Nền tảng công nghệ và thiết bị mà sản phẩm hoạt động trên đó.
 
-**Phân tích yếu tố Con người (People) trong thiết kế \[[06:19](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=379)\]**
+**Yếu tố Con người (People) trong thiết kế**
 
-* Nguyên tắc cốt lõi là Thiết kế lấy người dùng làm trung tâm (User-Centered Design) \[[06:31](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=391)\].
-* **Đặc điểm vật lý và nhân trắc học \[[08:54](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=534)\]:**
-    * Cần xem xét các yếu tố như tuổi tác, giới tính, chiều cao, cân nặng, và các khả năng hay hạn chế (ví dụ: người khuyết tật). Một ví dụ điển hình là thiết kế bàn học có thể điều chỉnh độ cao để phù hợp với nhiều lứa tuổi khác nhau \[[12:37](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=757)\].
-* **Cơ chế giao tiếp giữa con người và máy móc \[[13:53](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=833)\]:**
-    * Con người tương tác với máy móc chủ yếu qua các giác quan: thị giác, thính giác, và xúc giác \[[15:18](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=918)\].
-    * **Thị giác \[[16:52](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1012)\]:**
-        * Mắt người có một góc nhìn rõ nhất định \[[17:20](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1040)\].
-        * Chúng ta có xu hướng nhìn vật nhỏ ở khoảng cách gần và vật to ở khoảng cách xa hơn \[[18:35](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1115)\]. Điều này ảnh hưởng đến thiết kế, ví dụ như xác định khoảng cách xem TV an toàn \[[19:18](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1158)\].
-        * Màu sắc được tạo ra từ sự hấp thụ và phản xạ ánh sáng \[[21:34](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1294)\]. Cần lưu ý đến những người bị mù màu khi lựa chọn màu sắc trong thiết kế \[[22:34](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1354)\].
-    * **Thính giác \[[23:14](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1394)\]:**
-        * Con người có thể nghe được âm thanh trong khoảng tần số từ 20Hz đến 20,000Hz, và khả năng này thay đổi theo tuổi tác và tình trạng sức khỏe \[[23:14](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1394)\].
-        * Mặc dù có khả năng lọc bỏ tiếng ồn, con người dễ bị phân tâm bởi các âm thanh đặc biệt như âm báo cảnh báo hoặc thông báo \[[44:22](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2662)\].
-    * **Xúc giác \[[24:11](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1451)\]:**
-        * Tương tác chủ yếu thông qua màn hình cảm ứng và ngón tay \[[24:11](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1451)\].
-        * Kích thước trung bình của đầu ngón tay là khoảng 11mm, do đó kích thước của các điểm chạm trên giao diện không nên nhỏ hơn 25mm để đảm bảo dễ dàng tương tác \[[25:07](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1507)\].
-        * Cần xác định các vùng tương tác tối ưu trên màn hình của các thiết bị như iPad hay điện thoại \[[26:58](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1618)\].
-* **Nhận thức và Hành vi \[[28:57](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1737)\]:**
-    * Quy trình xử lý thông tin của não bộ: Thông tin được tiếp nhận qua thị giác và thính giác, đưa vào bộ nhớ đệm, sau đó được phân tích ở bộ nhớ ngắn hạn để đưa ra hành vi phản hồi \[[29:03](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1743)\].
-    * Tầm nhìn của mắt bao gồm tầm nhìn chính (focus) và tầm nhìn ngoại vi \[[32:19](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=1939)\].
-    * Nhận thức hình ảnh: Những gì mắt thấy và những gì não phân tích có thể khác nhau \[[34:11](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2051)\].
-    * Con người có xu hướng nhận diện đối tượng dựa trên các hình dạng cơ bản như hình vuông, tròn, chữ nhật \[[36:12](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2172)\].
-    * Bộ não rất nhạy cảm với việc nhận diện khuôn mặt \[[37:21](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2241)\].
-    * Các biểu tượng quen thuộc (icon điện thoại, tin nhắn) được nhận diện rất nhanh \[[37:48](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2268)\].
-    * Màu sắc có thể ảnh hưởng đến tâm trạng và khả năng đọc hiểu thông tin. Cần tránh các cặp màu gây khó khăn cho việc đọc \[[39:07](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2347)\].
-    * Nhận thức chữ viết: Con người nhận diện từ ngữ bằng hình ảnh của từ chứ không phải đánh vần từng chữ cái \[[40:30](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2430)\].
-        * Chữ viết thường dễ đọc hơn chữ in hoa toàn bộ \[[41:02](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2462)\].
-        * Tốc độ đọc trung bình là khoảng 250 từ mỗi phút \[[41:56](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2516)\].
-        * Kích thước chữ và độ dài dòng cần được thiết kế hợp lý để tối ưu hóa khả năng đọc \[[42:06](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2526)\].
-    * Bộ nhớ ngắn hạn có giới hạn, chỉ có thể ghi nhớ khoảng 7±2 mục thông tin cùng lúc \[[48:21](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2901)\]. Do đó, thông tin trong thiết kế cần được chia nhỏ \[[49:03](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2943)\].
-    * Bộ nhớ dài hạn: Khi thông tin được chuyển vào bộ nhớ dài hạn, hành động sẽ trở nên nhanh chóng và thành thói quen \[[49:26](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=2966)\]. Thói quen được hình thành dựa trên tần suất lặp lại và lợi ích mà hành động đó mang lại \[[50:34](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3034)\].
-* **Vấn đề xã hội \[[51:54](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3114)\]:**
-    * Các yếu tố như trình độ học vấn, nền tảng văn hóa, kinh nghiệm sống, vị trí xã hội, ngôn ngữ, và quan điểm thẩm mỹ đều ảnh hưởng đến cách người dùng tương tác với sản phẩm \[[52:02](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3122)\].
-    * Việc nghiên cứu kỹ lưỡng đối tượng người dùng là rất quan trọng để có thiết kế phù hợp (ví dụ: thiết kế ứng dụng cho người cao tuổi, nông dân, hay chuyên gia y tế sẽ rất khác nhau) \[[54:12](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3252)\].
-    * Một ví dụ được đưa ra là sự khác biệt trong việc sử dụng máy bán hàng tự động ở các nước phát triển so với ở Việt Nam \[[55:57](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3357)\].
+* Nguyên tắc cốt lõi là Thiết kế lấy người dùng làm trung tâm (User-Centered Design).
+* **Đặc điểm vật lý (nhân trắc học):**
+    * Cần xem xét các yếu tố như tuổi, giới tính, chiều cao, cân nặng, cũng như các khả năng và hạn chế của người dùng (ví dụ: người khuyết tật). Một ví dụ minh họa là thiết kế bàn học có thể điều chỉnh độ cao để phù hợp với nhiều lứa tuổi.
+* **Giao tiếp giữa con người và máy móc:**
+    * Con người giao tiếp với máy chủ yếu qua các giác quan: thị giác, thính giác, và xúc giác.
+    * **Thị giác:**
+        * Mắt người có một góc nhìn rõ nhất định.
+        * Con người có xu hướng nhìn vật nhỏ ở gần và vật to ở xa hơn. Điều này ảnh hưởng đến thiết kế, ví dụ như việc xác định khoảng cách xem TV phù hợp.
+        * Màu sắc được tạo ra từ sự hấp thụ và phản xạ ánh sáng. Cần lưu ý đến những người mù màu khi lựa chọn màu sắc trong thiết kế.
+    * **Thính giác:**
+        * Con người nghe được âm thanh trong dải tần số 20Hz - 20,000Hz, và khả năng này thay đổi theo tuổi tác và tình trạng sức khỏe.
+        * Dù có khả năng lọc nhiễu, con người vẫn dễ bị xao nhãng bởi các âm thanh đặc biệt như tiếng cảnh báo hoặc thông báo.
+    * **Xúc giác:**
+        * Tương tác chủ yếu qua màn hình cảm ứng và ngón tay.
+        * Kích thước trung bình của đầu ngón tay là khoảng 11mm, do đó kích thước của các điểm chạm trên giao diện không nên nhỏ hơn 25mm để đảm bảo việc tương tác dễ dàng.
+        * Cần xác định các vùng tương tác tốt nhất trên thiết bị (iPad, điện thoại).
+* **Nhận thức và hành vi:**
+    * Quy trình xử lý thông tin của não bộ: thông tin được tiếp nhận qua thị giác và thính giác, đưa vào bộ nhớ đệm, sau đó được phân tích ở bộ nhớ ngắn hạn để đưa ra hành vi phản hồi.
+    * Tầm nhìn thị giác bao gồm tầm nhìn chính (focus) và tầm nhìn ngoại vi.
+    * Nhận thức hình ảnh: Những gì mắt thấy và những gì não bộ phân tích có thể khác nhau.
+    * Con người có xu hướng nhận diện đối tượng dựa trên các hình dạng cơ bản như vuông, tròn, chữ nhật.
+    * Não bộ rất nhạy cảm với việc nhận diện khuôn mặt.
+    * Các biểu tượng quen thuộc (icon điện thoại, tin nhắn) được nhận diện rất nhanh.
+    * Màu sắc có thể ảnh hưởng đến tâm trạng và khả năng đọc thông tin. Cần tránh các cặp màu gây khó đọc.
+    * Nhận thức chữ viết: Con người nhận diện từ ngữ bằng hình ảnh của từ chứ không phải đánh vần từng chữ cái. Chữ viết thường dễ đọc hơn chữ in hoa toàn bộ. Tốc độ đọc trung bình khoảng 250 từ/phút. Kích thước chữ và độ dài dòng cần được thiết kế hợp lý.
+    * Bộ nhớ ngắn hạn có giới hạn, chỉ có thể ghi nhớ khoảng 7±2 mục thông tin cùng lúc. Do đó, thông tin trong thiết kế cần được chia nhỏ.
+    * Bộ nhớ dài hạn: Khi thông tin được chuyển vào bộ nhớ dài hạn, hành động sẽ trở nên nhanh chóng và thành thói quen. Thói quen được hình thành dựa trên tần suất lặp lại và lợi ích mà hành động đó mang lại.
+* **Vấn đề xã hội:**
+    * Các yếu tố như trình độ học vấn, nền tảng văn hóa, kinh nghiệm sống, vị trí xã hội, ngôn ngữ, và quan điểm thẩm mỹ đều ảnh hưởng đến cách người dùng tương tác với sản phẩm.
+    * Việc nghiên cứu kỹ lưỡng đối tượng người dùng là rất quan trọng để có thiết kế phù hợp (ví dụ: ứng dụng cho người già sẽ khác với ứng dụng cho chuyên gia y tế).
+    * Một ví dụ được đưa ra là sự khác biệt trong việc sử dụng máy bán hàng tự động ở các nước phát triển so với ở Việt Nam.
 
-**Kết luận \[[57:38](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3458)\]**
+**Kết luận**
 
-* Người dùng luôn là trung tâm của mọi quá trình thiết kế \[[58:11](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3491)\].
-* Cần phải nghiên cứu và thấu hiểu người dùng một cách sâu sắc: từ đặc điểm sinh học, khả năng nhận thức, suy nghĩ, thói quen, hành vi, cho đến nền tảng văn hóa và kinh nghiệm của họ \[[58:16](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3496)\].
-* Video tiếp theo sẽ đi sâu vào các yếu tố còn lại của mô hình PICT: Tương tác (Interactions), Bối cảnh (Context), và Công nghệ (Technology) \[[58:57](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3537)\].
+* Người dùng luôn là trung tâm của mọi quá trình thiết kế.
+* Cần phải nghiên cứu và thấu hiểu người dùng một cách sâu sắc: từ đặc điểm sinh học, khả năng nhận thức, suy nghĩ, thói quen, hành vi, cho đến nền tảng văn hóa và kinh nghiệm của họ.
+* Video tiếp theo sẽ đi sâu vào các yếu tố còn lại của mô hình **PACT**: Hoạt động (Activities), Bối cảnh (Context), và Công nghệ (Technology).
 
 
 <h1> Bài 3: Yếu tố Hoạt động, Ngữ cảnh, Công Nghệ trong mô hình PACT </h1>
@@ -133,7 +130,7 @@ Video này là phần tiếp theo của chủ đề thiết kế tương tác (i
 
 Cuối cùng, video nhấn mạnh rằng người làm thiết kế cần luôn tư duy về cả 4 yếu tố của mô hình PACT để tạo ra một sản phẩm có tương tác tốt nhất cho người dùng \[[48:43](http://www.youtube.com/watch?v=fLyZtRuepQo&t=2923)\].
 
-<h1> Bài 4: hiết kế đảm bảo khả năng sử dụng Usability </h1>
+<h1> Bài 4: Thiết kế đảm bảo khả năng sử dụng Usability </h1>
 
 **Giới thiệu về Usability (Khả năng sử dụng) \[[00:01](http://www.youtube.com/watch?v=tBU4JwRT8zs&t=1)\]**
 Buổi học thứ tư này tập trung vào chủ đề "Usability" hay còn gọi là khả năng sử dụng. Video sẽ giải thích vai trò của Usability trong quá trình thiết kế tương tác và tiếp cận người dùng \[[00:07](http://www.youtube.com/watch?v=tBU4JwRT8zs&t=7)\].
@@ -622,8 +619,6 @@ Kiến trúc thông tin là một công việc nền tảng và cực kỳ quan 
 * **Xác định mục đích người dùng** -> Xác định được các **chức năng của hệ thống**.
 * **Xây dựng nhiệm vụ của người dùng** -> Xác định được **cách thức tương tác** và phác thảo được **thiết kế giao diện**.
 * **Xây dựng kịch bản** -> **Bao quát được các tình huống** có thể xảy ra và đưa ra giải pháp, tránh bỏ sót các tính năng quan trọng.
-
-http://googleusercontent.com/youtube_content/9
 
 <h1> Bài 11: Thiết kế giao diện người dùng UI </h1>
 
