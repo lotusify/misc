@@ -1,4 +1,4 @@
-Đây là nội dung chi tiết video Bài 1
+Bài 1
 Dưới đây là nội dung chi tiết được trích xuất từ video:
 
 Video bắt đầu bằng việc giới thiệu về lĩnh vực thiết kế UX/UI, một ngành nghề đang có nhu cầu nhân lực cao tại Việt Nam \[[00:15](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=15)\]. Người thuyết trình, chị Huế, chia sẻ mình từng là giảng viên tại khoa Đa phương tiện của Học viện Bưu chính Viễn thông, một trong những nơi đầu tiên tại Việt Nam đào tạo chính quy về ngành này \[[00:59](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=59)\].
@@ -25,7 +25,6 @@ Video này tập trung vào phần "Nhập môn thiết kế UX/UI" \[[09:57](ht
 Video cũng chỉ ra sự khác biệt giữa yêu cầu của khách hàng (người trả tiền cho sản phẩm) và nhu cầu thực sự của người dùng cuối (người trực tiếp sử dụng sản phẩm) \[[24:49](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=1489)\]. Việc thấu hiểu người dùng là yếu tố then chốt để tạo ra một sản phẩm thành công \[[25:58](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=1558)\].
 
 Cuối cùng, video khẳng định rằng nội dung sẽ tập trung chủ yếu vào việc thiết kế UX/UI cho các sản phẩm có tính tương tác cao, đặc biệt là các sản phẩm phần mềm \[[33:10](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=1990)\], và phân tích sâu hơn về nguồn gốc của thiết kế tương tác từ lĩnh vực tương tác người-máy (HCI) \[[35:05](http://www.youtube.com/watch?v=2TKS1ifrhqI&t=2105)\].
-http://googleusercontent.com/youtube_content/0
 
 Đây là nội dung chi tiết Bài 2:
 Dưới đây là nội dung chi tiết được trích xuất từ video:
@@ -83,7 +82,6 @@ Dưới đây là nội dung chi tiết được trích xuất từ video:
 * Cần phải nghiên cứu và thấu hiểu người dùng một cách sâu sắc: từ đặc điểm sinh học, khả năng nhận thức, suy nghĩ, thói quen, hành vi, cho đến nền tảng văn hóa và kinh nghiệm của họ \[[58:16](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3496)\].
 * Video tiếp theo sẽ đi sâu vào các yếu tố còn lại của mô hình PICT: Tương tác (Interactions), Bối cảnh (Context), và Công nghệ (Technology) \[[58:57](http://www.youtube.com/watch?v=-IkFzTY9p3I&t=3537)\].
 
-http://googleusercontent.com/youtube_content/1
 
 Đây là nội dung chi tiết video thứ 3:
 Dưới đây là nội dung chi tiết được trích xuất từ video:
@@ -137,7 +135,6 @@ Video này là phần tiếp theo của chủ đề thiết kế tương tác (i
     * Yêu cầu kết nối 3G/4G/5G và GPS để xác định vị trí \[[47:51](http://www.youtube.com/watch?v=fLyZtRuepQo&t=2871)\].
 
 Cuối cùng, video nhấn mạnh rằng người làm thiết kế cần luôn tư duy về cả 4 yếu tố của mô hình PACT để tạo ra một sản phẩm có tương tác tốt nhất cho người dùng \[[48:43](http://www.youtube.com/watch?v=fLyZtRuepQo&t=2923)\].
-http://googleusercontent.com/youtube_content/2
 
 Bài 4
 Dưới đây là nội dung chi tiết được trích xuất từ video:
