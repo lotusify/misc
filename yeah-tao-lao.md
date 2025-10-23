@@ -1,10 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 ## **TÓM TẮT CỐT TRUYỆN: "THE MEMORY KEEPERS"**
-
-
 ***
-
 ### **NGẮN GỌN (2 phút đọc):**
 
 **Akira** (23 tuổi) là một cô gái thường ngày sống ở thành phố hiện đại. Một ngày, cô chứng kiến một cô gái trẻ tự tử ở quán cà phê. Khi chạm tay đến cô gái, Akira bất ngờ "**thấy**" được những ký ức bị xóa của cô - sự áp lực, cô đơn, tuyệt vọng.
@@ -130,6 +125,4 @@ Cipher lần cuối cố xóa sạch mọi thứ. Akira nói: Cipher cũng có k
 ✅ **Mỗi người có quyền chọn** - Xem có nên chữa hay xóa, nhưng nên chọn **chữa lành**
 
 ***
-
-Bạn thích tóm tắt này không? 🎬
 
